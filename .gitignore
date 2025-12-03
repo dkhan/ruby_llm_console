@@ -1,0 +1,15 @@
+# Ruby / Bundler
+/.bundle
+/vendor/bundle
+/log
+/tmp
+*.gem
+*.rbc
+
+# Environment variables
+.env
+*.key
+*.secret
+
+# MacOS
+.DS_Store
